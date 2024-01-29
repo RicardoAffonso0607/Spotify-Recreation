@@ -12,7 +12,7 @@ Project made with the help of the Alura's Front-End Imersion. It was important t
 1. Clone the repository: `git clone https://github.com/RicardoAffonso0607/Spotify-Recreation.git`
 2. Open the `index.html` file in your favorite web browser
 
-or open this website: https://github.com/RicardoAffonso0607/Spotify-Recreation/index.html
+or open this website: https://ricardoaffonso0607.github.io/Spotify-Recreation/
 
 ## Screenshot
 
